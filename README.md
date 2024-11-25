@@ -9,9 +9,9 @@ Preprocessing:
    - Calling variants & filtering with GATK
    - Selecting scaffolds with PLINK (& removing X & Y chromosomes)
 
-ROH analyses and heterozygosity estimates:
+ROH analyses:
+   - File conversion & creation (vcf => bed => ped/map/etc.)
    - ROH calling using PLINK
-   - HO estimated with VCFtools
 
 Variant annotation and genomic location:
    - SnpEff annotation
